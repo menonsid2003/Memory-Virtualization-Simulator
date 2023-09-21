@@ -1,7 +1,6 @@
 Sidharth Menon (U75158684)
-Submitted: 6/27/23
-Memory Virtualization
-Project 2
+Finished: 6/27/23
+Memory Virtualization Simulator
 
 Files required to compile the program:
 - memsim.c : main interface and takes user input to call each memory management function
